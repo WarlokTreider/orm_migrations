@@ -1,1 +1,1 @@
-Дз orm_migrations
+Дз миграции
